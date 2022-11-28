@@ -31,6 +31,10 @@ a {
     font-family: inherit;
 }
 
+label {
+    display: none;
+}
+
 header {
     min-height: 100vh;
     color: var(--color-black);
